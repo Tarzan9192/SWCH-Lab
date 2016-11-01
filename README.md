@@ -17,4 +17,4 @@ At SWCH, we use the latest technologies and frameworks like Node.js, Meteor, Rea
 * Work in a team environment using SCRUM agile methodology, and version control using GitHub.
 
 #### Please read the [Wiki](https://github.com/swchllc/lab/wiki) for Conding Convention and Dev Tools
-
+* please, let us know if you think of more useful information we should include in the wiki page
