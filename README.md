@@ -16,6 +16,5 @@ At SWCH, we use the latest technologies and frameworks like Node.js, Meteor, Rea
 * Use Node.js, Node Package Manager (NPM), NoSQL database like MongoDB, Amazon Web Services, and Google Cloud.
 * Work in a team environment using SCRUM agile methodology, and version control using GitHub.
 
-
-**Please read the [Wiki](https://github.com/swchllc/lab/wiki) for Conding Convention and Dev Tools
+#### Please read the [Wiki](https://github.com/swchllc/lab/wiki) for Conding Convention and Dev Tools
 
