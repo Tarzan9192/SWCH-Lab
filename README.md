@@ -8,7 +8,7 @@ At SWCH, we use the latest technologies and frameworks like Node.js, Meteor, Rea
 * gain exposure to the latest technologies, methodologies, and frameworks.   
 
 **Individuals will be expose to and learn to:** 
-* Use Object Oriented Programming languages like Javascript, Python, or Java.
+* Use Object Oriented Programming languages (mainly Javascript).
 * Use Full-stack framework like Meteor or MEAN Stack to launch projects really quickly.
 * Build User Interfaces using front-end frameworks like React.js, Angular, or Blaze.
 * Building and consuming APIs including Facebook, Instagram, Twitter, and more.
